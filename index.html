@@ -5,41 +5,61 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
+    <link rel="stylesheet" href="assets/css/normalize.css">
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
     <header>
         <nav class="nav">
             <div class="logo">
-                <span>Jiyeon Yu(Emily)</span>
+                <!-- <p class="logo__heading"><span>Jiyeon Yu</span><span>(Emily)</span></p> -->
+                <p class="logo__heading">Jiyeon Yu (Emily)</p>
             </div>
-           <ul class="menu">
-               <li class="menu__item">About</li>
-               <li class="menu__item">Portfolio</li>
-               <li class="menu__item">Contat</li>
-           </ul> 
+            <div class="menu">
+                <ul class="menu_list">
+                    <li class="menu__item">
+                        <a href="#">About</a>
+                    </li>
+                    <li class="menu__item">Portfolio</li>
+                    <li class="menu__item">Contact</li>
+                </ul> 
+            </div>
         </nav>
     </header>
-    <main>
-        <section class="about">
-            <h1 class="about__heading">About Me</h1>
+
+    <main class="content">
+        <section class="content__box">
+            <h1 class="heading heading--about">About Me</h1>
+            <hr>
             <article class="about__description">
+                <figure class="about__img">
+                    <img src="./assets/images/profile.JPG" alt="profile picture" class = "about__photo">
+                </figure>
                 <p class="about__phrase">
-                        HTML documents: index.html, contact.html, and portfolio.html.
-                        A folder called assets.
-                        Inside the assets directory, make two additional folders: css and images.
-                        
-                        
-                        In the css folder, make a file called style.css.
-                        In the images folder, save the images you plan on using (like your profile image and the placeholder images for the portfolio).
+                    HTML documents: index.html, contact.html, and portfolio.html.
+                    A folder called assets.
+                    Inside the assets directory, make two additional folders: css and images.
+                    
+                    
+                    In the css folder, make a file called style.css.
+                    In the images folder, save the images you plan on using (like your profile image and the placeholder images for the portfolio).
+                    In the css folder, make a file called style.css.
+                    In the images folder, save the images you plan on using (like your profile image and the placeholder images for the portfolio).
+                    In the css folder, make a file called style.css.
+                    In the images folder, save the images you plan on using (like your profile image and the placeholder images for the portfolio).
+                    In the css folder, make a file called style.css.
+                    In the images folder, save the images you plan on using (like your profile image and the placeholder images for the portfolio).
+                    In the css folder, make a file called style.css.
+                    In the images folder, save the images you plan on using (like 
                 </p>
             </article>
         </section>
-        <footer>
+    </main>
+    
+    <footer>
             <credit class="credit">
-                <p>&copyCopyright</p>
+                <p>Copyright &copy;</p>
             </credit>
         </footer>
-    </main>
 </body>
 </html>
