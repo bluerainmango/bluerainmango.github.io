@@ -4,10 +4,10 @@
 > Get to know about me!
 
 ### Hello from Emily :wink:  
-Thank you for your interest! If you have any questions about me or feel like chatting, just contact me via below! The best way to get in touch is email.
+Thank you for your interest! If you have any questions about me or feel like chatting, just contact me via below! <br>The best way to get in touch is email.
 
-:email: bluerainmango@gmail.com
-:link: [Linkedin](http://https://www.linkedin.com/in/emily-yu-4b0109112/ "Linkedin")
+:email: bluerainmango@gmail.com  
+:link: [Linkedin](https://www.linkedin.com/in/emily-yu-4b0109112/ "Linkedin")
 
 
 #### Installation
