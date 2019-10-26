@@ -12,14 +12,19 @@
     <header>
         <nav class="nav">
             <div class="logo">
-                <!-- <p class="logo__heading"><span>Jiyeon Yu</span><span>(Emily)</span></p> -->
-                <p class="logo__heading">Jiyeon Yu (Emily)</p>
+                <p class="logo__heading heading-font">Jiyeon Yu (Emily)</p>
             </div>
             <div class="menu">
                 <ul class="menu_list">
-                    <li class="menu__item">About</li>
-                    <li class="menu__item">Portfolio</li>
-                    <li class="menu__item">Contact</li>
+                    <li class="menu__item">
+                        <a href="/index.html">About</a>
+                    </li>
+                    <li class="menu__item">
+                        <a href="/portfolio.html">Portfolio</a>
+                    </li>
+                    <li class="menu__item">
+                        <a href="/contact.html">Contact</a>
+                    </li>
                 </ul> 
             </div>
         </nav>
@@ -27,18 +32,18 @@
 
     <main class="content">
         <section class="content__box">
-            <h1 class="heading heading--contact">Contact</h1>
+            <h1 class="heading-font heading--contact">Contact</h1>
             <hr>
           
                 <form class="contact__form" action="#">
                     <fieldset> 
                         <div class="contact__item">
                             <label for="name" class="input_label">Name</label>
-                            <input type="text" id="name">
+                            <input type="text" id="name" placeholder="Jiyeon Yu(Emily)">
                         </div>
                         <div class="contact__item">
                             <label for="email" class="input_label">Email</label>
-                            <input type="text" id="email">
+                            <input type="text" id="email" placeholder="abc@gmail.com">
                         </div>
                         <div class="contact__item">
                             <label for="message" class="input_label">Message</label>
@@ -52,9 +57,9 @@
     </main>
     
     <footer>
-            <credit class="credit">
+            <div class="credit">
                 <p>Copyright &copy;</p>
-            </credit>
+            </div>
         </footer>
 </body>
 </html>
