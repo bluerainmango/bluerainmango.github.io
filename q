@@ -1,0 +1,67 @@
+[33mcommit a5cd01497c3f64be15deaa8c2441374d10b9cad5[m[33m ([m[1;36mHEAD -> [m[1;32mpublic[m[33m)[m
+Merge: d4690a8 671d41c
+Author: Emily Yu <bluerainmango@gmail.com>
+Date:   Fri Oct 25 17:37:27 2019 -0700
+
+    Merge branch 'master' of github.com:bluerainmango/bluerainmango.github.io into public
+
+[33mcommit d4690a845e7e778251a69d785cdafa34a5942385[m
+Author: Emily Yu <bluerainmango@gmail.com>
+Date:   Fri Oct 25 17:34:37 2019 -0700
+
+    finished style
+
+[33mcommit 671d41cec0c03e76ca449a35385f9c288f9838c1[m[33m ([m[1;31msub/master[m[33m)[m
+Author: Emily Yu <45782903+bluerainmango@users.noreply.github.com>
+Date:   Fri Oct 25 13:57:34 2019 -0700
+
+    Delete style.css.orig
+
+[33mcommit 59e629ad902c66876320d06a3ac321032f260387[m
+Author: Emily Yu <45782903+bluerainmango@users.noreply.github.com>
+Date:   Fri Oct 25 13:57:23 2019 -0700
+
+    Delete normalize.css.orig
+
+[33mcommit 2758b63374a342cb31a1ad60b6231f1f85ebd196[m
+Author: Emily Yu <45782903+bluerainmango@users.noreply.github.com>
+Date:   Fri Oct 25 13:34:13 2019 -0700
+
+    Delete index.html.orig
+
+[33mcommit 4153790728275dc90a5123e1d63647d0980651f1[m
+Author: Emily Yu <45782903+bluerainmango@users.noreply.github.com>
+Date:   Fri Oct 25 13:33:55 2019 -0700
+
+    Delete contact.html.orig
+
+[33mcommit 0ee31b842a7d8c1ffa640880a65e69bba1c6ec61[m
+Author: Emily Yu <bluerainmango@gmail.com>
+Date:   Fri Oct 25 12:42:49 2019 -0700
+
+    up to date
+
+[33mcommit a04f5ff7e9ceb818e5db559d2e5219a1f37f4184[m
+Merge: 1af58a4 f56276a
+Author: Emily Yu <bluerainmango@gmail.com>
+Date:   Fri Oct 25 12:39:47 2019 -0700
+
+    fixed all conflicts
+
+[33mcommit 1af58a4aefb2d87da2665f24c43e95b21d32eca5[m
+Author: Emily Yu <bluerainmango@gmail.com>
+Date:   Fri Oct 25 12:12:08 2019 -0700
+
+    public branch backup
+
+[33mcommit f56276a8c933bdcea78baec1c935eaef6efb40b1[m
+Author: Emily Yu <45782903+bluerainmango@users.noreply.github.com>
+Date:   Fri Oct 25 11:55:39 2019 -0700
+
+    copied from my previous repo
+
+[33mcommit fdcbcd26b5744ff2df6f16a0f2626a0ac20d4128[m
+Author: Emily Yu <bluerainmango@gmail.com>
+Date:   Tue Oct 22 21:03:01 2019 -0700
+
+    upload
